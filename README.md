@@ -1,8 +1,8 @@
-# **DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI** 📒
+# **DESAFIO DE PROGRAMAÇÃO**
+
+## ACADEMIA CAPGEMINI 📒
 
 Este projeto foi desenvolvido na terceira etapa do processo de seleção para a Academia Capgemini 2022.
-Para executar-lo basta escolher uma IDE de sua preferência, instalar a versão do Java e 
-
 
 
 ## 📁 Tecnologias 
@@ -27,6 +27,14 @@ Para executar-lo basta escolher uma IDE de sua preferência, instalar a versão 
 ## :card_file_box: Estrutura:
 
 O repositório contém um package para resolução de cada questão abaixo e outro com seus respectivos testes.
+
+Para executar o projeto:
+
+- Escolha e baixe o IntelliJ ou outra IDE de sua preferência instale a versão do Java 11 e o Maven. 
+- Abra a IDE, abra o projeto e baixe a dependência do JUnit. 
+- Execute todos os testes.
+
+
 
 
 
@@ -141,7 +149,6 @@ A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão
 ·    Atendimento aos requisitos
 
 ·    Testes unitários
-
 
 
 
