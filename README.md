@@ -48,11 +48,19 @@ Escreva um algoritmo que mostre na tela uma escada de tamanho **n** utilizando o
 
 **Entrada:**
 
-![image-20220216141806412](C:\Users\thays\AppData\Roaming\Typora\typora-user-images\image-20220216141806412.png)
+| n = 6 |
+| ----- |
 
-**Saída:**
+**Saída**:
 
-![image-20220216141822368](C:\Users\thays\AppData\Roaming\Typora\typora-user-images\image-20220216141822368.png)
+```java
+     *
+    **
+   ***
+  ****
+ *****
+******
+```
 
 
 
@@ -80,11 +88,15 @@ Débora digitou uma string aleatória no campo de senha, porém ela não tem cer
 
 **Entrada:**
 
-![image-20220216141905362](C:\Users\thays\AppData\Roaming\Typora\typora-user-images\image-20220216141905362.png)
+| Ya3  |
+| ---- |
 
 **Saída:**
 
-![image-20220216141919654](C:\Users\thays\AppData\Roaming\Typora\typora-user-images\image-20220216141919654.png)
+| 3    |
+| ---- |
+
+
 
 **Explicação:**
 
@@ -98,17 +110,19 @@ Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma 
 
 **Exemplo:**
 
+
+
 **Exemplo 1)**
 
 **Entrada**:
 
-![image-20220216142047023](C:\Users\thays\AppData\Roaming\Typora\typora-user-images\image-20220216142047023.png)
-
- 
+| ovo  |
+| ---- |
 
 **Saída:**
 
-![image-20220216142057378](C:\Users\thays\AppData\Roaming\Typora\typora-user-images\image-20220216142057378.png)
+| 3    |
+| ---- |
 
  
 
@@ -118,19 +132,17 @@ A lista de todos os anagramas pares são: [o, o], [ov, vo] que estão nas posiç
 
  
 
- 
-
 **Exemplo 2)**
 
 **Entrada:**
 
-![image-20220216142003811](C:\Users\thays\AppData\Roaming\Typora\typora-user-images\image-20220216142003811.png)
-
- 
+| ifailuhkqq |
+| ---------- |
 
 **Saída:**
 
-![image-20220216142024020](C:\Users\thays\AppData\Roaming\Typora\typora-user-images\image-20220216142024020.png) 
+| 3    |
+| ---- |
 
  
 
