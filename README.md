@@ -31,7 +31,8 @@ O repositório contém um package para resolução de cada questão abaixo e out
 Para executar o projeto:
 
 - Escolha e baixe o IntelliJ ou outra IDE de sua preferência instale a versão do Java 11 e o Maven. 
-- Abra a IDE, abra o projeto e baixe a dependência do JUnit. 
+- Abra a IDE, abra o projeto 
+- Certifique-se que o Maven baixou as dependências corretamente. 
 - Execute todos os testes.
 
 
